@@ -6,7 +6,7 @@
 - Python
 - FastAPI
 - Uvicorn
-- React
+- Requests
 
 ### Descrição:
 Plataforma multiloja de e-commerce de eletrônicos, onde diferentes lojistas podem cadastrar e gerenciar suas próprias lojas. O usuário final pode selecionar uma loja específica para visualizar e comprar seus produtos.
